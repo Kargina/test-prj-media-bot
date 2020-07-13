@@ -2,6 +2,9 @@
 
 ## Description
 
+This is simple telegram bot.  
+Bot was realized as a test project.
+
 Bot can:  
 
 - save audio messages and convert to wav with sample rate 16kHz
